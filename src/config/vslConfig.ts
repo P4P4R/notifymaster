@@ -51,8 +51,7 @@ export const vslConfig = {
   // PREÇOS
   // ================================
   originalPrice: "R$ 59,90",
-  cashPrice: "R$ 19,90",
-  installments: "3x de R$ 6,63",
+  cashPrice: "R$ 9,90",
   productValue: 0, // valor numérico enviado aos pixels (ex: 47.9)
   currency: "BRL",
 
